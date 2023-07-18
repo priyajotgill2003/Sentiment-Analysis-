@@ -23,6 +23,7 @@ Money Heist, also known as La Casa de Papel, is a Spanish television series that
 ### 1. Web Scraping
 
 The first step involved scraping the data from the website scrapsfromtheloft.com. Using web scraping techniques, we extracted the transcripts of each episode of Money Heist. The scraped data provides the foundation for the subsequent analysis.
+
 <img width="600" alt="image" src="https://github.com/priyajotgill2003/Sentiment-Analysis-/assets/72308930/fec484b1-fe0b-4b3d-90c7-90a69be148c7">
 
 
