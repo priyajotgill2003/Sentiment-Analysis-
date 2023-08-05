@@ -1,7 +1,7 @@
 
-# Sentiment Analysis on Web Series Money Heist
+# Money Heist web series Sentiment Analysis
 <div align="justify">
-This project focuses on performing sentiment analysis on the popular web series Money Heist. The transcripts of each episode were obtained through web scraping from scrapsfromtheloft.com. The analysis consists of several steps, including data scraping, data cleaning, creating a document-term matrix, exploratory analysis, analyzing profanity, sentiment analysis of routines, and topic modeling with text generation using a Markov chain function.
+This project focuses on performing sentiment analysis of the popular web series Money Heist. The transcripts of each episode were obtained through web scraping from scrapsfromtheloft.com. The analysis consists of several steps, including data scraping, data cleaning, creating a document-term matrix, exploratory analysis, analyzing profanity, sentiment analysis of routines, and topic modeling with text generation using a Markov chain function.
 </div>
 
 ## Table of Contents
